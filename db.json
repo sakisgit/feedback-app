@@ -11,14 +11,14 @@
       "text": "this is feedback item 2 coming from backend"
     },
     {
-      "id": "3",
-      "rating": 8,
-      "text": "this is feedback item 3 coming from backend"
-    },
-    {
-      "id": 4,
+      "id": "4",
       "rating": 2,
       "text": "paok"
+    },
+    {
+      "text": " IT WORKS NOW",
+      "rating": 5,
+      "id": "7565"
     }
   ]
 }
